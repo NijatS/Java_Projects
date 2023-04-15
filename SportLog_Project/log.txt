@@ -1,0 +1,10 @@
+Amount of Burpee : 50
+Amount of Pushup : 50
+Amount of Situp : 50
+Amount of Squat : 50
+1.Equation ------> Sport : Burpee Amount : 40
+2.Equation ------> Sport : Pushup Amount : 50
+3.Equation ------> Sport : Situp Amount : 60
+4.Equation ------> Sport : Squat Amount : 30
+5.Equation ------> Sport : Burpee Amount : 10
+6.Equation ------> Sport : Squat Amount : 20
