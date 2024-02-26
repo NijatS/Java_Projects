@@ -2,7 +2,7 @@
 public interface ITest {
     
     
-    public int a = 5;
+   // public int a = 5;
     //private int b = 5;
     
     public static void test(){
