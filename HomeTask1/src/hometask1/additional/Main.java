@@ -10,8 +10,6 @@ public class Main {
         Person person2 = new Person("Nijat",20);
         System.out.println(person.toString());
         System.out.println(person2.toString());
- 
-        
         
         Account account = new Account();
         account.bankId = 1;
