@@ -14,7 +14,7 @@ public class Main {
         int secondNumber = scan.nextInt();
         System.out.println("Min Number is "+service.MinNumber(firstNumber, secondNumber));
         
-         System.out.print("Enter first weight:");
+        System.out.print("Enter first weight:");
         float firstWeight = scan.nextFloat();
         System.out.print("Enter second weight:");
         float secondWeight  = scan.nextFloat();
