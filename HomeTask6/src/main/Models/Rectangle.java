@@ -14,7 +14,7 @@ public class Rectangle extends Shape  implements Drawable {
 
     @Override
     public void calculateArea() {
-             System.out.println("Rectangle run Area method");
+        System.out.println("Rectangle run Area method");
     }
 
     @Override
@@ -27,5 +27,4 @@ public class Rectangle extends Shape  implements Drawable {
      public void defaultDraw(){
         System.out.println("default run by Rectangle");
     }
-
 }

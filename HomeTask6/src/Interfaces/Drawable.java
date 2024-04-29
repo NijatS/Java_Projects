@@ -14,6 +14,7 @@ public interface Drawable {
         System.out.println("private method setupDrawing");
     }
     default void defaultDraw(){
+        setupDrawing();
         System.out.println("default method defaultDraw");
     }
     
