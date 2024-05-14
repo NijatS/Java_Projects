@@ -4,8 +4,8 @@
  */
 package hometask7;
 
-import java.util.List;
 import java.util.ArrayList;
+import java.util.List;
 
 /**
  *
@@ -44,7 +44,7 @@ public class Shape {
     
     public static List<Shape> getShapeListByColor(List<Shape> shapes,String color){
         
-        List<Shape> findedList = new ArrayList<Shape>();
+        ArrayList<Shape> findedList = new ArrayList<Shape>();
          for(Shape shape:shapes){
             
             if(shape._color.equals(color)){
@@ -59,9 +59,5 @@ public class Shape {
         return getClass().getSimpleName() + " Id="+id+ "  Name=" + _name + ", Color=" + _color ;
     }
 
-  
-    
-    
-    
     
 }
